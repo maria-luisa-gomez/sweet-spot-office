@@ -66,8 +66,11 @@ We are going to try to meet the first 6 and maybe 7 needs
 ### METHODS
 
 Mongo queries
+
 Foursquare API
+
 GeoMongo
+
 Folium
 
 
