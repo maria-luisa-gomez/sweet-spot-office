@@ -52,8 +52,8 @@ def foursquareQueries(latitude, longitude, url, *args):
 
     '''  
     dict2_ = {}
-    token1 =  'X0SQDDFVGPWDNEP2DLYNL2EJR2BUGOZE0NF0PFZDQVHNVRWK'
-    token2 = '1MINEWPYPQ4EYLYL3K5K30KIZFNFFPDNSIT1CAHORB3RWRGG'  
+    token1 =  'xxxxxxxx'
+    token2 = 'xxxxxxxx'
     # client_id= os.getenv("token1")
     # client_secret = os.getenv("token2")
     
